@@ -1,0 +1,201 @@
+course_id,title,topic,difficulty,duration_mins,prerequisites
+c1000,Advanced Machine Learning,Data Science,Beginner,180,[]
+c1001,Intro to Machine Learning,DevOps,Intermediate,90,[]
+c1002,Hands-on Kubernetes,DevOps,Beginner,60,[]
+c1003,Intro to Kubernetes,Tools,Beginner,120,[]
+c1004,Fundamentals of Azure,Databases,Intermediate,120,[]
+c1005,Advanced Linux,Programming,Beginner,180,[]
+c1006,Crash Course in Docker,Cloud,Intermediate,60,"[""c1003""]"
+c1007,Advanced Data Visualization,Tools,Beginner,60,[]
+c1008,Fundamentals of AWS,Cloud,Intermediate,90,[]
+c1009,Practical AWS,Tools,Beginner,90,[]
+c1010,Fundamentals of Git,Security,Beginner,60,[]
+c1011,Hands-on Linux,Cloud,Beginner,90,[]
+c1012,Advanced Data Visualization,Programming,Intermediate,60,[]
+c1013,Intro to Python,DevOps,Intermediate,90,[]
+c1014,Fundamentals of SQL,Programming,Beginner,90,[]
+c1015,Fundamentals of Azure,Tools,Beginner,45,[]
+c1016,Intro to Azure,Data Science,Advanced,180,[]
+c1017,Crash Course in Pandas,Machine Learning,Intermediate,60,"[""c1001""]"
+c1018,Crash Course in Neural Networks,Data Science,Intermediate,90,[]
+c1019,Intro to Machine Learning,DevOps,Beginner,90,[]
+c1020,Advanced Linux,Cloud,Beginner,180,[]
+c1021,Crash Course in Linux,DevOps,Beginner,120,[]
+c1022,Fundamentals of Azure,Programming,Beginner,90,[]
+c1023,Practical Pandas,Tools,Intermediate,60,[]
+c1024,Advanced Pandas,Tools,Advanced,120,"[""c1001""]"
+c1025,Practical Neural Networks,Productivity,Beginner,180,[]
+c1026,Crash Course in AWS,Tools,Intermediate,60,"[""c1013""]"
+c1027,Intro to Docker,Tools,Beginner,30,[]
+c1028,Fundamentals of AWS,Security,Beginner,90,[]
+c1029,Hands-on Machine Learning,Machine Learning,Beginner,120,[]
+c1030,Intro to Pandas,Cloud,Beginner,60,[]
+c1031,Crash Course in AWS,Security,Intermediate,45,[]
+c1032,Intro to SQL,Cloud,Intermediate,45,"[""c1006"", ""c1008""]"
+c1033,Crash Course in Data Visualization,Security,Intermediate,60,[]
+c1034,Hands-on SQL,Security,Beginner,120,[]
+c1035,Advanced Linux,Databases,Intermediate,120,[]
+c1036,Fundamentals of AWS,DevOps,Intermediate,45,"[""c1006"", ""c1027""]"
+c1037,Fundamentals of AWS,DevOps,Advanced,90,"[""c1032""]"
+c1038,Fundamentals of Azure,Productivity,Beginner,60,[]
+c1039,Intro to SQL,Security,Beginner,120,[]
+c1040,Practical Linux,Databases,Intermediate,120,"[""c1000""]"
+c1041,Hands-on Python,Databases,Beginner,180,[]
+c1042,Advanced Azure,Data Science,Intermediate,120,[]
+c1043,Practical Git,Tools,Beginner,60,[]
+c1044,Crash Course in AWS,Programming,Beginner,120,[]
+c1045,Advanced Neural Networks,Security,Beginner,90,[]
+c1046,Practical Azure,Databases,Beginner,120,[]
+c1047,Intro to AWS,Tools,Beginner,90,[]
+c1048,Hands-on AWS,Security,Intermediate,45,[]
+c1049,Hands-on Neural Networks,Cloud,Intermediate,90,"[""c1028""]"
+c1050,Advanced Linux,Programming,Beginner,45,[]
+c1051,Intro to Git,Databases,Beginner,60,[]
+c1052,Advanced Neural Networks,Cloud,Advanced,120,"[""c1005""]"
+c1053,Practical Data Visualization,DevOps,Beginner,60,[]
+c1054,Practical Python,Programming,Beginner,120,[]
+c1055,Advanced Azure,DevOps,Beginner,45,[]
+c1056,Intro to SQL,Data Science,Beginner,180,[]
+c1057,Intro to SQL,Machine Learning,Beginner,90,[]
+c1058,Advanced Kubernetes,Machine Learning,Beginner,90,[]
+c1059,Hands-on Azure,Programming,Beginner,60,[]
+c1060,Fundamentals of Data Visualization,Programming,Intermediate,90,"[""c1050"", ""c1032""]"
+c1061,Fundamentals of Kubernetes,Tools,Beginner,60,[]
+c1062,Crash Course in Neural Networks,Databases,Beginner,60,[]
+c1063,Practical Docker,Security,Intermediate,90,[]
+c1064,Fundamentals of Linux,Machine Learning,Beginner,60,[]
+c1065,Fundamentals of Git,Programming,Beginner,120,[]
+c1066,Advanced Neural Networks,Programming,Intermediate,45,[]
+c1067,Practical SQL,DevOps,Advanced,60,"[""c1001""]"
+c1068,Crash Course in Git,DevOps,Beginner,30,[]
+c1069,Crash Course in AWS,Tools,Beginner,90,[]
+c1070,Crash Course in Kubernetes,Machine Learning,Intermediate,90,[]
+c1071,Practical Kubernetes,Machine Learning,Beginner,90,[]
+c1072,Practical Pandas,Databases,Intermediate,45,"[""c1016"", ""c1055""]"
+c1073,Advanced Neural Networks,Data Science,Intermediate,90,[]
+c1074,Advanced Azure,Productivity,Intermediate,90,[]
+c1075,Intro to Azure,Cloud,Intermediate,45,[]
+c1076,Intro to Azure,Machine Learning,Intermediate,60,[]
+c1077,Advanced Azure,Programming,Beginner,30,[]
+c1078,Fundamentals of Kubernetes,Data Science,Intermediate,120,"[""c1018"", ""c1066""]"
+c1079,Hands-on Machine Learning,Programming,Intermediate,60,[]
+c1080,Intro to SQL,Data Science,Beginner,180,[]
+c1081,Hands-on Data Visualization,Machine Learning,Beginner,90,[]
+c1082,Advanced Docker,Security,Intermediate,120,"[""c1049"", ""c1056""]"
+c1083,Hands-on Neural Networks,Security,Advanced,120,[]
+c1084,Intro to Kubernetes,Tools,Beginner,120,[]
+c1085,Intro to Kubernetes,Security,Intermediate,90,"[""c1001"", ""c1059""]"
+c1086,Hands-on Azure,Programming,Advanced,180,[]
+c1087,Hands-on Neural Networks,DevOps,Intermediate,120,"[""c1018"", ""c1008""]"
+c1088,Hands-on Python,Security,Intermediate,120,[]
+c1089,Hands-on Machine Learning,Security,Advanced,120,[]
+c1090,Fundamentals of Kubernetes,Tools,Intermediate,45,[]
+c1091,Crash Course in Data Visualization,Machine Learning,Beginner,120,[]
+c1092,Crash Course in AWS,Data Science,Intermediate,30,[]
+c1093,Practical Python,Productivity,Beginner,120,[]
+c1094,Advanced Docker,Security,Beginner,60,[]
+c1095,Advanced Data Visualization,Databases,Intermediate,120,[]
+c1096,Advanced Azure,Data Science,Intermediate,60,"[""c1032""]"
+c1097,Hands-on Azure,Data Science,Beginner,90,[]
+c1098,Practical SQL,Data Science,Beginner,90,[]
+c1099,Fundamentals of SQL,Databases,Intermediate,120,"[""c1032""]"
+c1100,Fundamentals of Machine Learning,Data Science,Intermediate,90,"[""c1021"", ""c1085""]"
+c1101,Practical SQL,Security,Beginner,180,[]
+c1102,Intro to Azure,Databases,Beginner,120,[]
+c1103,Intro to Pandas,Databases,Intermediate,120,[]
+c1104,Fundamentals of Kubernetes,Productivity,Intermediate,90,[]
+c1105,Practical Azure,Databases,Beginner,60,[]
+c1106,Crash Course in Docker,Databases,Intermediate,60,"[""c1034""]"
+c1107,Hands-on Linux,Security,Intermediate,30,"[""c1091"", ""c1043""]"
+c1108,Crash Course in Pandas,Programming,Beginner,60,[]
+c1109,Hands-on Python,Productivity,Advanced,120,[]
+c1110,Hands-on Python,DevOps,Advanced,60,[]
+c1111,Intro to Azure,Databases,Intermediate,90,"[""c1059""]"
+c1112,Advanced Data Visualization,Data Science,Advanced,60,[]
+c1113,Crash Course in Docker,Tools,Beginner,120,[]
+c1114,Practical Docker,Databases,Beginner,60,[]
+c1115,Intro to Neural Networks,DevOps,Intermediate,180,[]
+c1116,Hands-on Git,Databases,Intermediate,90,[]
+c1117,Crash Course in Data Visualization,Security,Beginner,90,[]
+c1118,Crash Course in Neural Networks,Machine Learning,Advanced,45,[]
+c1119,Hands-on AWS,Productivity,Intermediate,120,[]
+c1120,Fundamentals of Azure,Productivity,Intermediate,120,[]
+c1121,Fundamentals of Pandas,Productivity,Intermediate,90,[]
+c1122,Intro to Linux,Cloud,Beginner,120,[]
+c1123,Advanced Machine Learning,Machine Learning,Intermediate,120,"[""c1012"", ""c1059""]"
+c1124,Hands-on Azure,DevOps,Intermediate,90,[]
+c1125,Fundamentals of Azure,DevOps,Intermediate,90,"[""c1109"", ""c1015""]"
+c1126,Advanced Machine Learning,Machine Learning,Beginner,120,[]
+c1127,Hands-on Python,Tools,Beginner,90,[]
+c1128,Advanced Python,Data Science,Beginner,120,[]
+c1129,Fundamentals of Linux,Databases,Beginner,60,[]
+c1130,Fundamentals of Kubernetes,Databases,Advanced,120,"[""c1057""]"
+c1131,Crash Course in Pandas,DevOps,Beginner,30,[]
+c1132,Practical Git,Cloud,Intermediate,90,"[""c1007"", ""c1100""]"
+c1133,Fundamentals of Python,Data Science,Intermediate,60,[]
+c1134,Practical Neural Networks,Programming,Intermediate,45,"[""c1108"", ""c1115""]"
+c1135,Crash Course in Git,Tools,Beginner,120,[]
+c1136,Fundamentals of Machine Learning,Security,Beginner,45,[]
+c1137,Intro to Python,Cloud,Advanced,120,[]
+c1138,Crash Course in Azure,Productivity,Beginner,90,[]
+c1139,Crash Course in Git,Programming,Beginner,120,[]
+c1140,Fundamentals of Git,DevOps,Beginner,60,[]
+c1141,Hands-on Azure,Machine Learning,Beginner,90,[]
+c1142,Crash Course in Azure,Machine Learning,Intermediate,45,[]
+c1143,Intro to Pandas,DevOps,Advanced,90,[]
+c1144,Fundamentals of Python,Data Science,Beginner,45,[]
+c1145,Advanced Kubernetes,Security,Beginner,180,[]
+c1146,Advanced SQL,Databases,Intermediate,90,"[""c1021"", ""c1068""]"
+c1147,Hands-on AWS,Cloud,Intermediate,30,"[""c1143""]"
+c1148,Fundamentals of Docker,Data Science,Beginner,45,[]
+c1149,Fundamentals of Docker,Databases,Beginner,45,[]
+c1150,Practical Pandas,Machine Learning,Beginner,60,[]
+c1151,Fundamentals of Azure,Programming,Advanced,60,[]
+c1152,Crash Course in Pandas,Data Science,Beginner,120,[]
+c1153,Fundamentals of Pandas,Programming,Intermediate,60,[]
+c1154,Practical Kubernetes,Machine Learning,Beginner,90,[]
+c1155,Fundamentals of Azure,Machine Learning,Beginner,180,[]
+c1156,Hands-on SQL,Tools,Advanced,60,"[""c1137""]"
+c1157,Hands-on Neural Networks,Tools,Intermediate,90,[]
+c1158,Hands-on Linux,DevOps,Advanced,120,"[""c1003""]"
+c1159,Fundamentals of Azure,Security,Intermediate,180,[]
+c1160,Practical Pandas,Security,Advanced,120,[]
+c1161,Practical SQL,Data Science,Intermediate,120,[]
+c1162,Advanced Linux,Tools,Intermediate,90,"[""c1032""]"
+c1163,Crash Course in AWS,Machine Learning,Beginner,90,[]
+c1164,Practical Neural Networks,Productivity,Advanced,90,[]
+c1165,Fundamentals of Data Visualization,Security,Advanced,180,[]
+c1166,Hands-on Python,DevOps,Beginner,45,[]
+c1167,Practical Docker,Security,Beginner,30,[]
+c1168,Advanced Linux,Productivity,Beginner,120,[]
+c1169,Intro to Git,DevOps,Beginner,60,[]
+c1170,Crash Course in Kubernetes,Programming,Intermediate,30,"[""c1114"", ""c1161""]"
+c1171,Practical Python,Productivity,Beginner,45,[]
+c1172,Advanced AWS,DevOps,Intermediate,90,[]
+c1173,Crash Course in Kubernetes,Productivity,Advanced,120,"[""c1020""]"
+c1174,Practical Python,Machine Learning,Advanced,90,[]
+c1175,Practical Pandas,Security,Beginner,90,[]
+c1176,Advanced SQL,Security,Intermediate,120,[]
+c1177,Crash Course in AWS,Data Science,Beginner,60,[]
+c1178,Crash Course in Linux,Productivity,Intermediate,120,[]
+c1179,Advanced Kubernetes,Cloud,Intermediate,60,"[""c1012""]"
+c1180,Crash Course in Pandas,DevOps,Intermediate,60,[]
+c1181,Fundamentals of Data Visualization,Machine Learning,Beginner,90,[]
+c1182,Advanced Kubernetes,Data Science,Beginner,90,[]
+c1183,Hands-on Neural Networks,Machine Learning,Beginner,45,[]
+c1184,Hands-on Linux,Data Science,Beginner,180,[]
+c1185,Hands-on AWS,Data Science,Intermediate,90,[]
+c1186,Advanced Data Visualization,Data Science,Advanced,120,[]
+c1187,Practical Pandas,Machine Learning,Beginner,90,[]
+c1188,Practical Linux,Databases,Beginner,45,[]
+c1189,Hands-on Python,Data Science,Intermediate,90,"[""c1052"", ""c1150""]"
+c1190,Hands-on Kubernetes,Programming,Intermediate,45,[]
+c1191,Advanced Kubernetes,Programming,Advanced,180,[]
+c1192,Advanced Azure,Tools,Advanced,45,"[""c1162""]"
+c1193,Practical Git,Productivity,Advanced,90,[]
+c1194,Crash Course in Azure,Security,Beginner,45,[]
+c1195,Intro to AWS,Databases,Intermediate,90,[]
+c1196,Crash Course in Linux,Cloud,Beginner,45,[]
+c1197,Advanced Neural Networks,Data Science,Intermediate,45,"[""c1177""]"
+c1198,Intro to Data Visualization,DevOps,Advanced,45,[]
+c1199,Intro to Docker,Data Science,Intermediate,60,[]
